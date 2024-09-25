@@ -22,10 +22,8 @@
   </head>
   <body>
     <div class="wrapper">
-      <!-- Sidebar -->
       <div class="sidebar" data-background-color="dark">
         <div class="sidebar-logo">
-          <!-- Logo Header -->
           <div class="logo-header" data-background-color="dark">
             <div class="avatar avatar-xxl">
 				<img src="{{ url('assets/img/kaiadmin/logo.png') }}" alt="..." class="avatar-img rounded-circle">
@@ -49,14 +47,12 @@
             <ul class="nav nav-secondary">
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('anggota') }}">
-                        <i class="fa-solid fa-landmark"></i>
                         <span class="menu-title">BERANDA</span> 
                     </a>
                 </li>
                 <br>
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('anggota') }}">
-                        <i class="fas fa-plane"></i>
                         <span class="menu-title">LIST TOUR</span> 
                     </a>
                 </li>
@@ -112,9 +108,7 @@
               </ul>
             </div>
           </nav>
-          <!-- End Navbar -->
         </div>
-
         <div class="container">
             @yield('content')
         </div>

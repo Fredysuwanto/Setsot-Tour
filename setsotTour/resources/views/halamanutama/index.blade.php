@@ -145,7 +145,20 @@
                                         <span>Tour Guide</span>
                                     </div>
                                 </div>
-                            
+                            <div class="col-lg-3">
+                                <img src="https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671116.jpg?size=626&ext=jpg&ga=GA1.1.708301025.1727177859&semt=ais_hybrid" class="img-fluid" alt="" />
+                                    <div class="text-center">
+                                        <h3>Rismanto</h3>
+                                        <span>Tour Guide</span>
+                                    </div>
+                                </div>
+                            <div class="col-lg-3">
+                                <img src="https://img.freepik.com/free-psd/3d-render-avatar-character_23-2150611731.jpg?size=626&ext=jpg&ga=GA1.1.708301025.1727177859&semt=ais_hybrid" class="img-fluid" alt="" />
+                                    <div class="text-center">
+                                        <h3>David</h3>
+                                        <span>Tour Guide</span>
+                                    </div>
+                            </div>
                         </div>
                     </div>
                 </div>

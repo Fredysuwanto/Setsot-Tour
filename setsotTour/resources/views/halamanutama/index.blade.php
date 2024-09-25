@@ -99,6 +99,40 @@
                                     <a href="{{ url('registrasi') }}"class="btn btn-primary">Pesan Sekarang</a>
                         </div>
                     </div>
+                <div class="container py-md-5">
+                    <br>
+                    <h3 class="text-center">Person</h3>
+                        <div class="row">
+                            <div class="col-lg-3">
+                                <img src="https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671142.jpg?size=626&ext=jpg" class="img-fluid" alt="" />
+                                    <div class="text-center">
+                                        <h3>Fredy Suwanto</h3>
+                                        <span>Manager</span>
+                                    </div>
+                                </div>
+                            <div class="col-lg-3">
+                                <img src="https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671126.jpg?size=626&ext=jpg" class="img-fluid" alt="" />
+                                    <div class="text-center">
+                                        <h3>Zacky</h3>
+                                        <span>Tour Guide</span>
+                                    </div>
+                                </div>
+                            <div class="col-lg-3">
+                                <img src="https://img.freepik.com/free-psd/3d-render-avatar-character_23-2150611765.jpg?size=626&ext=jpg" class="img-fluid" alt="" />
+                                    <div class="text-center">
+                                        <h3>Komariah</h3>
+                                        <span>Tour Guide</span>
+                                    </div>
+                                </div>
+                            <div class="col-lg-3">
+                                <img src="https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671122.jpg?size=626&ext=jpg  " class="img-fluid" alt="" />
+                                    <div class="text-center">
+                                        <h3>Jodi</h3>
+                                        <span>Tour Guide</span>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 @endsection

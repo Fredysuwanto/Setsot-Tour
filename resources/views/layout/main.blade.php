@@ -60,14 +60,22 @@
                         <span class="menu-title">BERANDA</span> 
                     </a>
                 </li>
-                <br>
+           
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('halamandetail') }}">
                         <i class="fas fa-plane"></i>
                         <span class="menu-title">Halaman Selengkapnya</span> 
                     </a>
                 </li>
-                <br>
+           
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ url('halamanreview') }}">
+                        <i class="fas fa-plane"></i>
+                        <span class="menu-title">Review Pelanggan</span> 
+                    </a>
+                </li>
+         
+              
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('registrasi') }}">
                         <i class="fas fa-plane"></i>

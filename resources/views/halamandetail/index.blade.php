@@ -1,6 +1,6 @@
 @extends('layout.main')
 
-@section('title', 'Wisata Indonesia')
+@section('title', 'Halaman Selengkapnya')
 
 @section('content')
 <div class="container">
@@ -350,4 +350,5 @@
                     </div>
                 </div>
             </div>
+            
 @endsection

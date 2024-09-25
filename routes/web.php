@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\HalamandetailController;
+use App\Http\Controllers\HalamanreviewController;
 use App\Http\Controllers\halamanutamaController;
 use App\Http\Controllers\RegistrasiController;
 use App\Http\Controllers\SelengkapnyaController;
@@ -23,4 +24,6 @@ Route::get('/', function () {
 Route::resource('halamanutama', halamanutamaController::class);
 Route::resource('registrasi', RegistrasiController::class);
 Route::resource('halamandetail',HalamandetailController::class);
+Route::resource('halamanreview',HalamanreviewController::class);
+
 

@@ -18,25 +18,25 @@
             @error('nama')
                 <span class="text-danger">{{$message}}</span>
             @enderror
-          </div>
-          <div class="form-group">
-            <label for="tour" class="text-light">Tour</label>
-            <select type="text" class="form-control" id="tour" name="tour" placeholder="Masukan Tour di inginkan">
-                <option value="Tour Jepang"> Tour Jepang </option>
-                <option value="Tour Labuan Bajo"> Tour Labuan Bajo</option>
-                <option value="Tour Palembang"> Tour Palembang</option>
-                <option value="Tour Bali"> Tour Bali</option>
-                <option value="Tour Palembang"> Tour Palembang</option>
-                <option value="Tour madura"> Tour Madura</option>
-                <option value="Tour Maluku"> Tour Maluku</option>
-                <option value="Tour Medan"> Tour Medan</option>
-                <option value="Tour Bandung"> Tour Bandung</option>
-              </select>
-            @error('tour')
-                <span class="text-danger">{{$message}}</span>
-            @enderror
-          </div>
-          <div class="form-group">
+        </div>
+        <div class="form-group">
+          <label for="tour" class="text-light">Tour</label>
+          <select type="text" class="form-control" id="tour" name="tour" placeholder="Masukan Tour di inginkan">
+              <option value="Tour Jepang"> Tour Jepang </option>
+              <option value="Tour Labuan Bajo"> Tour Labuan Bajo</option>
+              <option value="Tour Palembang"> Tour Palembang</option>
+              <option value="Tour Bali"> Tour Bali</option>
+              <option value="Tour Palembang"> Tour Palembang</option>
+              <option value="Tour madura"> Tour Madura</option>
+              <option value="Tour Maluku"> Tour Maluku</option>
+              <option value="Tour Medan"> Tour Medan</option>
+              <option value="Tour Bandung"> Tour Bandung</option>
+            </select>
+          @error('tour')
+              <span class="text-danger">{{$message}}</span>
+          @enderror
+        </div>
+        <div class="form-group">
             <label for="waktu" class="text-light">Waktu Tour</label>
             <select type="text" class="form-control" id="waktu" name="waktu" placeholder="Masukan Waktu Tour">
                 <option value="2 Hari 1 Malam"> 2 Hari 1 Malam </option>
@@ -53,6 +53,7 @@
             @error('waktu')
                 <span class="text-danger">{{$message}}</span>
             @enderror
+          </div>
           </div>
                 <div class="form-group">
                 <label for="tanggal">Tanggal Tour</label>

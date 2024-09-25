@@ -21,7 +21,7 @@
           </div>
           <div class="timeline-panel">
             <div class="timeline-heading">
-              <h4 class="timeline-title">Khalid</h4>
+              <h4 class="timeline-title">Young Lex</h4>
               
             </div>
             <div class="timeline-body">

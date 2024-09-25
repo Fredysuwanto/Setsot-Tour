@@ -49,7 +49,6 @@
               <i class="gg-more-vertical-alt"></i>
             </button>
           </div>
-          <!-- End Logo Header -->
         </div>
         <div class="sidebar-wrapper scrollbar scrollbar-inner">
           <div class="sidebar-content">
@@ -86,8 +85,6 @@
           </div>
         </div>
       </div>
-      <!-- End Sidebar -->
-
       <div class="main-panel">
         <div class="main-header">
           <div class="main-header-logo">
@@ -144,7 +141,6 @@
         </div>
       </div>
     </div>
-      <!-- End Custom template -->
     </div>
     <script src="{{ url('assets/js/core/jquery-3.7.1.min.js') }}"></script>
     <script src="{{ url('assets/js/core/popper.min.js') }}"></script>

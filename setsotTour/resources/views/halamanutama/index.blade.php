@@ -132,16 +132,16 @@
                                     </div>
                             </div>
                             <div class="col-lg-3">
-                                <img src="https://img.freepik.com/free-psd/3d-render-avatar-character_23-2150611716.jpg?size=626&ext=jpg&ga=GA1.2.708301025.1727177859&semt=ais_hybrid" class="img-fluid" alt="" />
+                                <img src="https://img.freepik.com/free-psd/3d-render-avatar-character_23-2150611710.jpg?size=626&ext=jpg&ga=GA1.1.708301025.1727177859&semt=ais_hybrid" class="img-fluid" alt="" />
                                     <div class="text-center">
-                                        <h3>Danang</h3>
-                                        <span>Tour Guide</span>
+                                        <h3>Rifaldi</h3>
+                                        <span>Manager</span>
                                     </div>
                                 </div>
                             <div class="col-lg-3">
-                                <img src="https://img.freepik.com/free-psd/3d-render-avatar-character_23-2150611753.jpg?size=626&ext=jpg" class="img-fluid" alt="" />
+                                <img src="https://img.freepik.com/free-psd/3d-render-avatar-character_23-2150611746.jpg?size=626&ext=jpg&ga=GA1.1.708301025.1727177859&semt=ais_hybrid" class="img-fluid" alt="" />
                                     <div class="text-center">
-                                        <h3>Rismanto</h3>
+                                        <h3>Danang</h3>
                                         <span>Tour Guide</span>
                                     </div>
                                 </div>

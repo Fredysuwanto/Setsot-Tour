@@ -13,19 +13,12 @@
       href="{{ url('assets/img/kaiadmin/logoku.png') }}"
       type="image/x-icon"
     />
-
-    <!-- Fonts and icons -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <script src="{{ url('assets/js/plugin/webfont/webfont.min.js') }}"></script>
-    
-
-    <!-- CSS Files -->
     <link rel="stylesheet" href="{{ url('assets/css/bootstrap.min.css') }}" />
     <link rel="stylesheet" href="{{ url('assets/css/plugins.min.css') }}" />
     <link rel="stylesheet" href="{{ url('assets/css/kaiadmin.min.css') }}" />
     <link rel="stylesheet" href="{{ url('assets/css/demo.css') }}" />
-
-    
   </head>
   <body>
     <div class="wrapper">
@@ -71,8 +64,6 @@
           </div>
         </div>
       </div>
-      <!-- End Sidebar -->
-
       <div class="main-panel">
         <div class="main-header">
           <div class="main-header-logo">
@@ -129,8 +120,7 @@
         </div>
       </div>
     </div>
-      <!-- End Custom template -->
-    </div>
+  </div>
     <script src="{{ url('assets/js/core/jquery-3.7.1.min.js') }}"></script>
     <script src="{{ url('assets/js/core/popper.min.js') }}"></script>
     <script src="{{ url('assets/js/core/bootstrap.min.js') }}"></script>

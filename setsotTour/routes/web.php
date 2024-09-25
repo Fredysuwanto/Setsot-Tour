@@ -1,5 +1,10 @@
 <?php
 
+use App\Http\Controllers\HalamandetailController;
+use App\Http\Controllers\HalamanreviewController;
+use App\Http\Controllers\halamanutamaController;
+use App\Http\Controllers\RegistrasiController;
+use App\Http\Controllers\SelengkapnyaController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,3 +21,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('halamanutama.index');
 });
+Route::resource('halamanutama', halamanutamaController::class);
+Route::resource('registrasi', RegistrasiController::class);
+Route::resource('halamandetail',HalamandetailController::class);
+Route::resource('halamanreview',HalamanreviewController::class);
+
+

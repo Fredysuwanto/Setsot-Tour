@@ -119,19 +119,19 @@
                         </ul>
                         <div class="tab-content mt-2 mb-3" id="pills-without-border-tabContent">
                             <div class="tab-pane fade show active" id="pills-home-nobd" role="tabpanel" aria-labelledby="pills-home-tab-nobd">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-
-                                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                                <p>Rasakan kekayaan budaya dan sejarah di kota Palembang, kota tertua di Indonesia yang terkenal dengan Sungai Musi. Dalam tour ini, Anda akan menjelajahi ikon kota seperti Jembatan Ampera, Benteng Kuto Besak, dan Pulau Kemaro yang legendaris. Nikmati juga kuliner khas Palembang seperti pempek, model, dan tekwan. Selain itu, Anda akan berkunjung ke Masjid Agung Sultan Mahmud Badaruddin II dan Museum Sultan Mahmud Badaruddin untuk mengenal lebih dalam sejarah Kesultanan Palembang. Tour ini menawarkan perpaduan antara keindahan alam dan warisan budaya yang kaya!</p>
                             </div>
                             <div class="tab-pane fade" id="pills-profile-nobd" role="tabpanel" aria-labelledby="pills-profile-tab-nobd">
-                                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                                <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-                                </p>
+                                <img src="https://liburasik.com/wp-content/uploads/2024/06/IMG_6941.jpeg" class = "img-fluid" alt="">
+                                
                             </div>
                             <div class="tab-pane fade" id="pills-contact-nobd" role="tabpanel" aria-labelledby="pills-contact-tab-nobd">
-                                <p>Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country.</p>
-
-                                <p> But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their</p>
+                                <p>Tour Guide</p>
+                                <ul>
+                                    <li>Jl.Tabung Plaju</li>
+                                    <li>(p) 0853-266-7891</li>
+                                    <li>(e) MuhammadZacky@mdp.ac.id</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -140,7 +140,7 @@
             <div class="col-md-6">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">Nav Pills Without Border (Vertical Tabs)</h4>
+                        <h4 class="card-title">Tour Bali</h4>
                     </div>
                     <div class="card-body">
                         <div class="row">
@@ -154,19 +154,19 @@
                             <div class="col-7 col-md-8">
                                 <div class="tab-content" id="v-pills-without-border-tabContent">
                                     <div class="tab-pane fade show active" id="v-pills-home-nobd" role="tabpanel" aria-labelledby="v-pills-home-tab-nobd">
-                                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-
-                                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                                        <p>Nikmati pesona Pulau Dewata, Bali, dengan pantainya yang indah, budaya yang kaya, dan pemandangan alam yang menakjubkan. Dalam perjalanan ini, Anda akan mengunjungi pantai-pantai terkenal seperti Kuta, Nusa Dua, dan Uluwatu, serta menikmati keindahan sawah terasering di Tegalalang dan pemandangan Gunung Batur yang memukau. Jangan lewatkan kunjungan ke Pura Tanah Lot dan Pura Uluwatu yang ikonik, serta merasakan pengalaman budaya di Ubud yang dipenuhi galeri seni dan pertunjukan tari tradisional. Tour ini juga memberikan kesempatan untuk mencicipi kuliner Bali yang lezat, seperti babi guling dan sate lilit. Bali menawarkan keindahan alam, spiritualitas, dan relaksasi dalam satu paket!</p>
                                     </div>
                                     <div class="tab-pane fade" id="v-pills-profile-nobd" role="tabpanel" aria-labelledby="v-pills-profile-tab-nobd">
-                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                                        <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-                                        </p>
+                                        <img src="https://blog.darmawisataindonesia.co.id/wp-content/uploads/2017/08/paket-tour-bali-1.jpg" class = "img-fluid" alt="">
+
                                     </div>
                                     <div class="tab-pane fade" id="v-pills-messages-nobd" role="tabpanel" aria-labelledby="v-pills-messages-tab-nobd">
-                                        <p>Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country.</p>
-
-                                        <p> But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their</p>
+                                        <p>Tour Guide</p>
+                                <ul>
+                                    <li>Jl.Rajawali</li>
+                                    <li>(p) 0853-233-74214</li>
+                                    <li>(e) KomariahWullandari@mdp.ac.id</li>
+                                </ul>
                                     </div>
                                 </div>
                             </div>
@@ -177,7 +177,7 @@
             <div class="col-md-6">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">Nav Pills With Icon (Horizontal Tabs)</h4>
+                        <h4 class="card-title">Tour Madura</h4>
                     </div>
                     <div class="card-body">
                         <ul class="nav nav-pills nav-secondary  nav-pills-no-bd nav-pills-icons justify-content-center" id="pills-tab-with-icon" role="tablist">
@@ -202,19 +202,19 @@
                         </ul>
                         <div class="tab-content mt-2 mb-3" id="pills-with-icon-tabContent">
                             <div class="tab-pane fade show active" id="pills-home-icon" role="tabpanel" aria-labelledby="pills-home-tab-icon">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-
-                                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                                <p>Temukan keindahan dan kekayaan budaya di Pulau Madura. Dalam tour ini, Anda akan mengunjungi berbagai destinasi menarik seperti Bukit Jaddih, tambang kapur yang menawarkan pemandangan eksotis, serta Pantai Siring Kemuning yang indah dengan pasir putihnya. Tak lupa, saksikan langsung tradisi unik Karapan Sapi, balapan sapi yang menjadi ikon budaya Madura. Anda juga bisa mencicipi kuliner khas seperti sate madura dan bebek sinjay yang terkenal. Jelajahi pasar lokal dan sentra batik Madura yang menawarkan corak khas dan kaya warna. Tour ini memberikan pengalaman autentik pulau yang penuh pesona dan tradisi!</p>
                             </div>
                             <div class="tab-pane fade" id="pills-profile-icon" role="tabpanel" aria-labelledby="pills-profile-tab-icon">
-                                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                                <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-                                </p>
+                                <img src="https://www.darmawisataindonesia.co.id/Content/images/tour/586/58624ee664d-bc34-44b5-a3ec-8239181bb67c.jpg" class = "img-fluid" alt="">
+
                             </div>
                             <div class="tab-pane fade" id="pills-contact-icon" role="tabpanel" aria-labelledby="pills-contact-tab-icon">
-                                <p>Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country.</p>
-
-                                <p> But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their</p>
+                                <p>Tour Guide</p>
+                                <ul>
+                                    <li>Jl.Mayor Laut Wiratno No.14 Palembang</li>
+                                    <li>(p) 0812-744-90172</li>
+                                    <li>(e) Jodiptra@mdp.ac.id</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -223,7 +223,7 @@
             <div class="col-md-6">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">Nav Pills With Icon (Vertical Tabs)</h4>
+                        <h4 class="card-title">Tour Maluku</h4>
                     </div>
                     <div class="card-body">
                         <div class="row">
@@ -237,19 +237,28 @@
                                         <i class="far fa-user"></i>
                                         Profile
                                     </a>
+                                    <a class="nav-link" id="v-pills-profile-tab-icons" data-bs-toggle="pill" href="#v-pills-profile-icons" role="tab" aria-controls="v-pills-profile-icons" aria-selected="false" tabindex="-1">
+                                        <i class="far fa-user"></i>
+                                        Contact
+                                    </a>
                                 </div>
                             </div>
                             <div class="col-7 col-md-8">
                                 <div class="tab-content" id="v-pills-with-icon-tabContent">
                                     <div class="tab-pane fade show active" id="v-pills-home-icons" role="tabpanel" aria-labelledby="v-pills-home-tab-icons">
-                                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-
-                                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                                        <p>Nikmati keindahan alam yang memukau di Kepulauan Maluku, yang dikenal sebagai "Spice Islands." Dalam tour ini, Anda akan menjelajahi pantai-pantai eksotis seperti Pantai Ora di Pulau Seram yang memiliki air sebening kristal dan terumbu karang yang luar biasa. Kunjungi Benteng Amsterdam dan Benteng Belgica di Ambon untuk menelusuri jejak sejarah kolonial. Anda juga akan merasakan keindahan Pulau Banda, surga tersembunyi dengan kehidupan laut yang kaya, ideal untuk snorkeling dan diving. Jangan lewatkan kesempatan untuk menikmati kuliner khas Maluku seperti ikan bakar colo-colo dan papeda. Maluku menawarkan perpaduan antara sejarah, budaya, dan alam yang luar biasa!</p>
                                     </div>
                                     <div class="tab-pane fade" id="v-pills-profile-icons" role="tabpanel" aria-labelledby="v-pills-profile-tab-icons">
-                                        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                                        <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-                                        </p>
+                                                                       <img src="https://www.darmawisataindonesia.co.id/Content/images/tour/191/1918ebd3efe-6a16-412f-8cc3-a6e96009fa44.jpg" class = "img-fluid" alt="">
+
+                                    </div>
+                                    <div class="tab-pane fade" id="pills-contact-icon" role="tabpanel" aria-labelledby="pills-contact-tab-icon">
+                                        <p>Tour Guide</p>
+                                        <ul>
+                                            <li>Jl.Mayor Laut Wiratno No.14 Palembang</li>
+                                            <li>(p) 0812-744-90172</li>
+                                            <li>(e) Jodiptra@mdp.ac.id</li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
@@ -260,7 +269,7 @@
             <div class="col-md-6">
                 <div class="card">
                     <div class="card-header">
-                        <h4 class="card-title">Nav Line</h4>
+                        <h4 class="card-title">Tour Medan</h4>
                     </div>
                     <div class="card-body">
                         <ul class="nav nav-tabs nav-line nav-color-secondary" id="line-tab" role="tablist">
@@ -276,25 +285,69 @@
                         </ul>
                         <div class="tab-content mt-3 mb-3" id="line-tabContent">
                             <div class="tab-pane fade show active" id="line-home" role="tabpanel" aria-labelledby="line-home-tab">
-                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-
-                                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                                <p>Tour Medan menawarkan pengalaman yang kaya akan budaya, kuliner, dan keindahan alam. Kunjungi Istana Maimun, simbol kejayaan Kesultanan Deli, dan Masjid Raya Al Mashun yang megah. Nikmati cita rasa kuliner Medan yang terkenal, seperti Bika Ambon, Soto Medan, dan Durian Ucok. Jangan lewatkan wisata alam di Danau Toba, yang terletak tidak jauh dari Medan, serta keindahan alam Bukit Lawang yang terkenal dengan orangutan. Tour ini akan membawa Anda merasakan keramahan penduduk lokal dan keunikan budaya Sumatera Utara.</p>
                             </div>
                             <div class="tab-pane fade" id="line-profile" role="tabpanel" aria-labelledby="line-profile-tab">
-                                <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                                <p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didnâ€™t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-                                </p>
+                                <img src="https://www.darmawisataindonesia.co.id/Content/images/tour/414/41435a52030-b9be-46dd-b6b2-6ec49aac0de6.jpg" class = "img-fluid" alt="">
+
                             </div>
                             <div class="tab-pane fade" id="line-contact" role="tabpanel" aria-labelledby="line-contact-tab">
-                                <p>Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country.</p>
-
-                                <p> But nothing the copy said could convince her and so it didnâ€™t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their</p>
+                                <p>Tour Guide</p>
+                                <ul>
+                                    <li>Jl.Kandang Kawat Palembang</li>
+                                    <li>(p) 0853-266-7150</li>
+                                    <li>(e) FredySuwanto@mdp.ac.id</li>
+                                </ul>
+                            </div>
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Tour Bandung</h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-5 col-md-4">
+                                <div class="nav flex-column nav-pills nav-secondary nav-pills-no-bd nav-pills-icons" id="v-pills-tab-with-icon" role="tablist" aria-orientation="vertical">
+                                    <a class="nav-link active" id="v-pills-home-tab-maluku" data-bs-toggle="pill" href="#v-pills-home-maluku" role="tab" aria-controls="v-pills-home-maluku" aria-selected="true">
+                                        <i class="icon-home"></i>
+                                        Home
+                                    </a>
+                                    <a class="nav-link" id="v-pills-profile-tab-maluku" data-bs-toggle="pill" href="#v-pills-profile-maluku" role="tab" aria-controls="v-pills-profile-maluku" aria-selected="false" tabindex="-1">
+                                        <i class="far fa-user"></i>
+                                        Profile
+                                    </a>
+                                    <a class="nav-link" id="v-pills-contact-tab-maluku" data-bs-toggle="pill" href="#v-pills-contact-maluku" role="tab" aria-controls="v-pills-contact-maluku" aria-selected="false" tabindex="-1">
+                                        <i class="far fa-envelope"></i>
+                                        Contact
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-7 col-md-8">
+                                <div class="tab-content" id="v-pills-maluku-tabContent">
+                                    <div class="tab-pane fade show active" id="v-pills-home-maluku" role="tabpanel" aria-labelledby="v-pills-home-tab-maluku">
+                                            <p>Tur Bandung mengajak Anda menjelajahi keindahan alam dan kuliner khas kota ini. Kunjungi Tangkuban Perahu untuk melihat kawahnya yang menakjubkan, lalu nikmati suasana sejuk di Kebun Teh Ciwidey. Jangan lewatkan pengalaman kuliner di Cihampelas dan Braga, di mana Anda bisa mencicipi batagor, surabi, dan berbagai hidangan lezat lainnya. Bandung menawarkan kombinasi sempurna antara keindahan alam dan cita rasa yang menggugah selera!</p>
+                                    </div>
+                                    <div class="tab-pane fade" id="v-pills-profile-maluku" role="tabpanel" aria-labelledby="v-pills-profile-tab-maluku">
+                                        <img src="https://cdn1-production-images-kly.akamaized.net/g2NmhB29rCjuBx6ERb8jv2ci6tE=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3556188/original/040670500_1630383811-white-crater-2337128_1280_1_.jpg" class = "img-fluid" alt="">
+                                    </div>
+                                    <div class="tab-pane fade" id="v-pills-contact-maluku" role="tabpanel" aria-labelledby="v-pills-contact-tab-maluku">
+                                        <p>Tour Guide</p>
+                                        <ul>
+                                            <li>Jl.Tabung Plaju</li>
+                                            <li>(p) 0853-266-7891</li>
+                                            <li>(e) MuhammadZacky@mdp.ac.id</li>
+                                        </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-</div>
 @endsection

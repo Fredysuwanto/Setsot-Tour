@@ -55,6 +55,23 @@
             @enderror
           </div>
           </div>
+                <div class="form-group">
+                <label for="tanggal">Tanggal Tour</label>
+                <input type="date" class="form-control" id="tanggal" name="tanggal" value="{{old('tanggal')}}"
+                    placeholder="Masukan Tanggal Tour">
+                @error('tanggal')
+                    <span class="text-danger">{{$message}}</span>
+                @enderror
+            </div>
+          <div class="form-group">
+            <label for="harga">harga</label>
+            <input type="number" class="form-control" id="harga" name="harga" value="{{ old('harga') }}" placeholder="Masukan Harga ">
+            @error('harga')
+                <span class="text-danger">{{$message}}</span>
+            @enderror
+          </div>
+          <button type="submit" class="btn btn-primary me-2">Simpan</button>
+          <a href="{{ url('buku') }}" class="btn btn-light">Batal</a>
         </form>
       </div>
     </div>

@@ -24,7 +24,7 @@ class HalamanreviewController extends Controller
      */
     public function create()
     {
-        //
+        return view('halamanreview.create');
     }
 
     /**

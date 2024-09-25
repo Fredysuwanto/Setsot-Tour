@@ -74,7 +74,7 @@
                                 <div class="nav flex-column nav-pills nav-secondary" id="v-pills-tab" role="tablist" aria-orientation="vertical">
                                     <a class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
                                     <a class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false" tabindex="-1">Profile</a>
-                                    <a class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" tabindex="-1">Messages</a>
+                                    <a class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" tabindex="-1">Contact</a>
                                 </div>
                             </div>
                             <div class="col-7 col-md-8">
@@ -148,7 +148,7 @@
                                 <div class="nav flex-column nav-pills nav-secondary nav-pills-no-bd" id="v-pills-tab-without-border" role="tablist" aria-orientation="vertical">
                                     <a class="nav-link active" id="v-pills-home-tab-nobd" data-bs-toggle="pill" href="#v-pills-home-nobd" role="tab" aria-controls="v-pills-home-nobd" aria-selected="true">Home</a>
                                     <a class="nav-link" id="v-pills-profile-tab-nobd" data-bs-toggle="pill" href="#v-pills-profile-nobd" role="tab" aria-controls="v-pills-profile-nobd" aria-selected="false" tabindex="-1">Profile</a>
-                                    <a class="nav-link" id="v-pills-messages-tab-nobd" data-bs-toggle="pill" href="#v-pills-messages-nobd" role="tab" aria-controls="v-pills-messages-nobd" aria-selected="false" tabindex="-1">Messages</a>
+                                    <a class="nav-link" id="v-pills-messages-tab-nobd" data-bs-toggle="pill" href="#v-pills-messages-nobd" role="tab" aria-controls="v-pills-messages-nobd" aria-selected="false" tabindex="-1">Contact</a>
                                 </div>
                             </div>
                             <div class="col-7 col-md-8">

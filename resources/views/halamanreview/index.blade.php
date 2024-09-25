@@ -4,7 +4,13 @@
 
 @section('content')
 
-<h3 class="fw-bold mb-3">Review Costumer</h3>
+
+<div class="container">
+    <h1 class="my-4 text-center">Rating & Review</h1>
+    <a href="{{ route('halamanreview.create') }}" class="btn btn-primary col-lg-12"> >>Comment Here<< </a>
+    <hr>
+</div>
+
 
 <div class="row">
     <div class="col-md-12">

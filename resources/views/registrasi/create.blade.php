@@ -36,6 +36,24 @@
               <span class="text-danger">{{$message}}</span>
           @enderror
         </div>
+        <div class="form-group">
+            <label for="waktu" class="text-light">Waktu Tour</label>
+            <select type="text" class="form-control" id="waktu" name="waktu" placeholder="Masukan Waktu Tour">
+                <option value="2 Hari 1 Malam"> 2 Hari 1 Malam </option>
+                <option value="2 Hari 2 Malam"> 2 Hari 2 Malam </option>
+                <option value="3 Hari 2 Malam"> 3 Hari 2 Malam </option>
+                <option value="3 Hari 3 Malam"> 3 Hari 3 Malam </option>
+                <option value="4 Hari 3 Malam"> 4 Hari 3 Malam </option>
+                <option value="4 Hari 4 Malam"> 4 Hari 4 Malam </option>
+                <option value="5 Hari 4 Malam"> 5 Hari 4 Malam </option>
+                <option value="5 Hari 5 Malam"> 5 Hari 5 Malam </option>
+                <option value="6 Hari 5 Malam"> 6 Hari 5 Malam </option>
+                <option value="6 Hari 6 Malam"> 6 Hari 6 Malam </option>
+              </select>
+            @error('waktu')
+                <span class="text-danger">{{$message}}</span>
+            @enderror
+          </div>
           </div>
         </form>
       </div>
